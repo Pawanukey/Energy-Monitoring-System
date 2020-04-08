@@ -1,1 +1,4 @@
 # Energy-Monitoring-System
+The Internet of things is the network of devices such as vehicles, and home appliances that contain electronics, software, sensors, actuators, and connectivity which allows these things to connect, interact and exchange data. 
+       An Energy Management System (EMS) is a system of computer-aided tools used by operators of electric utility grids to monitor, control, and optimize the performance of the generation and/or transmission system. Energy monitoring is the best way to ensure that your home PV system generates properly and that you save on energy bills. An EMS provides the processes and systems needed to incorporate energy considerations as well as the energy management into daily operations as part of an organizational strategy for improving energy performance. 
+
